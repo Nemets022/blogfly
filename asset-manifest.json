@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blogfly/static/css/main.eaa50112.chunk.css",
+    "main.css": "/blogfly/static/css/main.e53cd74d.chunk.css",
     "main.js": "/blogfly/static/js/main.20524da2.chunk.js",
     "main.js.map": "/blogfly/static/js/main.20524da2.chunk.js.map",
     "runtime-main.js": "/blogfly/static/js/runtime-main.faac2560.js",
@@ -8,7 +8,7 @@
     "static/js/2.4d737fae.chunk.js": "/blogfly/static/js/2.4d737fae.chunk.js",
     "static/js/2.4d737fae.chunk.js.map": "/blogfly/static/js/2.4d737fae.chunk.js.map",
     "index.html": "/blogfly/index.html",
-    "static/css/main.eaa50112.chunk.css.map": "/blogfly/static/css/main.eaa50112.chunk.css.map",
+    "static/css/main.e53cd74d.chunk.css.map": "/blogfly/static/css/main.e53cd74d.chunk.css.map",
     "static/js/2.4d737fae.chunk.js.LICENSE.txt": "/blogfly/static/js/2.4d737fae.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/blogfly/static/media/bg.f92c0471.png",
     "static/media/Logo.4e9e091f.png": "/blogfly/static/media/Logo.4e9e091f.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.faac2560.js",
     "static/js/2.4d737fae.chunk.js",
-    "static/css/main.eaa50112.chunk.css",
+    "static/css/main.e53cd74d.chunk.css",
     "static/js/main.20524da2.chunk.js"
   ]
 }
