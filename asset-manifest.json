@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/blogfly/static/css/main.1fdd357c.chunk.css",
-    "main.js": "/blogfly/static/js/main.fdea508a.chunk.js",
-    "main.js.map": "/blogfly/static/js/main.fdea508a.chunk.js.map",
+    "main.css": "/blogfly/static/css/main.a458ebde.chunk.css",
+    "main.js": "/blogfly/static/js/main.5f1f01ad.chunk.js",
+    "main.js.map": "/blogfly/static/js/main.5f1f01ad.chunk.js.map",
     "runtime-main.js": "/blogfly/static/js/runtime-main.faac2560.js",
     "runtime-main.js.map": "/blogfly/static/js/runtime-main.faac2560.js.map",
-    "static/js/2.28d2dbbc.chunk.js": "/blogfly/static/js/2.28d2dbbc.chunk.js",
-    "static/js/2.28d2dbbc.chunk.js.map": "/blogfly/static/js/2.28d2dbbc.chunk.js.map",
+    "static/js/2.ac79865b.chunk.js": "/blogfly/static/js/2.ac79865b.chunk.js",
+    "static/js/2.ac79865b.chunk.js.map": "/blogfly/static/js/2.ac79865b.chunk.js.map",
     "index.html": "/blogfly/index.html",
-    "static/css/main.1fdd357c.chunk.css.map": "/blogfly/static/css/main.1fdd357c.chunk.css.map",
-    "static/js/2.28d2dbbc.chunk.js.LICENSE.txt": "/blogfly/static/js/2.28d2dbbc.chunk.js.LICENSE.txt",
+    "static/css/main.a458ebde.chunk.css.map": "/blogfly/static/css/main.a458ebde.chunk.css.map",
+    "static/js/2.ac79865b.chunk.js.LICENSE.txt": "/blogfly/static/js/2.ac79865b.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/blogfly/static/media/bg.f92c0471.png",
     "static/media/Logo.4e9e091f.png": "/blogfly/static/media/Logo.4e9e091f.png",
     "static/media/BarChart.scss": "/blogfly/static/media/arrows.792e77dd.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.faac2560.js",
-    "static/js/2.28d2dbbc.chunk.js",
-    "static/css/main.1fdd357c.chunk.css",
-    "static/js/main.fdea508a.chunk.js"
+    "static/js/2.ac79865b.chunk.js",
+    "static/css/main.a458ebde.chunk.css",
+    "static/js/main.5f1f01ad.chunk.js"
   ]
 }
